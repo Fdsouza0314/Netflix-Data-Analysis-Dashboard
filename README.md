@@ -47,3 +47,5 @@ Distribution of Show Ratings: Provides a breakdown of content by rating categori
 https://www.kaggle.com/datasets/divyaraj2006/netflix-tv-shows-and-movies?resource=download
 
 **5. Screenshots / Demos:**
+https://github.com/Fdsouza0314/Netflix-Data-Analysis-Dashboard/blob/main/Netflix%20Data%20Analysis%20Dashboard%20Screenshot.png
+
